@@ -1,4 +1,4 @@
-# ### Work_Sample - MadKudu AI Agent
+#  Work_Sample - MadKudu AI Agent
 
 ### 1. Website Scraping
 
@@ -27,7 +27,7 @@ The agent generates LinkedIn connection notes using:
 - The company name (MadKudu).
 - The value proposition extracted from the website.
 
-#### b) Example Output
+
 
 
 ---
