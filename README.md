@@ -1,4 +1,4 @@
-#  Work_Sample - MadKudu AI Agent
+#  Work_Sample - AI Agent
 
 ### 1. Website Scraping
 
